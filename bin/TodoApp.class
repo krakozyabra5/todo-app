@@ -1,0 +1,9 @@
+// Source code is decompiled from a .class file using FernFlower decompiler (from Intellij IDEA).
+public class TodoApp {
+   public TodoApp() {
+   }
+
+   public static void main(String[] var0) {
+      // $FF: Couldn't be decompiled
+   }
+}
